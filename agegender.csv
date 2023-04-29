@@ -1,6 +1,6 @@
 country,gender,age,count
 Middle East and Asia: Southern Asia: India,Female,0 to 4,5795
-Middle East and Asia: Southern Asia: India,Female,5 to 9,11230
+Middle East and Asia: Southern Asia: India,Female,4 to 9,11230
 Middle East and Asia: Southern Asia: India,Female,10 to 15,13620
 Middle East and Asia: Southern Asia: India,Female,16 to 19,10010
 Middle East and Asia: Southern Asia: India,Female,20 to 24,19570
@@ -18,7 +18,7 @@ Middle East and Asia: Southern Asia: India,Female,75 to 79,17975
 Middle East and Asia: Southern Asia: India,Female,80 to 84,13710
 Middle East and Asia: Southern Asia: India,Female,85 and over,12110
 Middle East and Asia: Southern Asia: India,Male,0 to 4,5805
-Middle East and Asia: Southern Asia: India,Male,5 to 9,11375
+Middle East and Asia: Southern Asia: India,Male,4 to 9,11375
 Middle East and Asia: Southern Asia: India,Male,10 to 15,14715
 Middle East and Asia: Southern Asia: India,Male,16 to 19,11255
 Middle East and Asia: Southern Asia: India,Male,20 to 24,26125
@@ -36,7 +36,7 @@ Middle East and Asia: Southern Asia: India,Male,75 to 79,14865
 Middle East and Asia: Southern Asia: India,Male,80 to 84,12310
 Middle East and Asia: Southern Asia: India,Male,85 and over,9375
 Europe: Other Europe: Poland,Female,0 to 4,1545
-Europe: Other Europe: Poland,Female,5 to 9,5240
+Europe: Other Europe: Poland,Female,4 to 9,5240
 Europe: Other Europe: Poland,Female,10 to 15,14930
 Europe: Other Europe: Poland,Female,16 to 19,15190
 Europe: Other Europe: Poland,Female,20 to 24,26595
@@ -54,7 +54,7 @@ Europe: Other Europe: Poland,Female,75 to 79,1610
 Europe: Other Europe: Poland,Female,80 to 84,1615
 Europe: Other Europe: Poland,Female,85 and over,2480
 Europe: Other Europe: Poland,Male,0 to 4,1540
-Europe: Other Europe: Poland,Male,5 to 9,5505
+Europe: Other Europe: Poland,Male,4 to 9,5505
 Europe: Other Europe: Poland,Male,10 to 15,15420
 Europe: Other Europe: Poland,Male,16 to 19,15385
 Europe: Other Europe: Poland,Male,20 to 24,21735
@@ -72,7 +72,7 @@ Europe: Other Europe: Poland,Male,75 to 79,515
 Europe: Other Europe: Poland,Male,80 to 84,615
 Europe: Other Europe: Poland,Male,85 and over,1230
 Middle East and Asia: Southern Asia: Pakistan,Female,0 to 4,1700
-Middle East and Asia: Southern Asia: Pakistan,Female,5 to 9,4300
+Middle East and Asia: Southern Asia: Pakistan,Female,4 to 9,4300
 Middle East and Asia: Southern Asia: Pakistan,Female,10 to 15,9710
 Middle East and Asia: Southern Asia: Pakistan,Female,16 to 19,7900
 Middle East and Asia: Southern Asia: Pakistan,Female,20 to 24,13700
@@ -90,7 +90,7 @@ Middle East and Asia: Southern Asia: Pakistan,Female,75 to 79,6035
 Middle East and Asia: Southern Asia: Pakistan,Female,80 to 84,4825
 Middle East and Asia: Southern Asia: Pakistan,Female,85 and over,4580
 Middle East and Asia: Southern Asia: Pakistan,Male,0 to 4,1965
-Middle East and Asia: Southern Asia: Pakistan,Male,5 to 9,4495
+Middle East and Asia: Southern Asia: Pakistan,Male,4 to 9,4495
 Middle East and Asia: Southern Asia: Pakistan,Male,10 to 15,10455
 Middle East and Asia: Southern Asia: Pakistan,Male,16 to 19,8775
 Middle East and Asia: Southern Asia: Pakistan,Male,20 to 24,12680
@@ -108,7 +108,7 @@ Middle East and Asia: Southern Asia: Pakistan,Male,75 to 79,4940
 Middle East and Asia: Southern Asia: Pakistan,Male,80 to 84,4875
 Middle East and Asia: Southern Asia: Pakistan,Male,85 and over,3660
 Europe: Other Europe: Romania,Female,0 to 4,3420
-Europe: Other Europe: Romania,Female,5 to 9,7890
+Europe: Other Europe: Romania,Female,4 to 9,7890
 Europe: Other Europe: Romania,Female,10 to 15,11835
 Europe: Other Europe: Romania,Female,16 to 19,8970
 Europe: Other Europe: Romania,Female,20 to 24,27840
@@ -126,7 +126,7 @@ Europe: Other Europe: Romania,Female,75 to 79,485
 Europe: Other Europe: Romania,Female,80 to 84,245
 Europe: Other Europe: Romania,Female,85 and over,185
 Europe: Other Europe: Romania,Male,0 to 4,3695
-Europe: Other Europe: Romania,Male,5 to 9,8150
+Europe: Other Europe: Romania,Male,4 to 9,8150
 Europe: Other Europe: Romania,Male,10 to 15,12740
 Europe: Other Europe: Romania,Male,16 to 19,9405
 Europe: Other Europe: Romania,Male,20 to 24,24375
@@ -144,7 +144,7 @@ Europe: Other Europe: Romania,Male,75 to 79,175
 Europe: Other Europe: Romania,Male,80 to 84,100
 Europe: Other Europe: Romania,Male,85 and over,80
 Europe: Other Europe: Ireland,Female,0 to 4,560
-Europe: Other Europe: Ireland,Female,5 to 9,1585
+Europe: Other Europe: Ireland,Female,4 to 9,1585
 Europe: Other Europe: Ireland,Female,10 to 15,3700
 Europe: Other Europe: Ireland,Female,16 to 19,3745
 Europe: Other Europe: Ireland,Female,20 to 24,4555
@@ -162,7 +162,7 @@ Europe: Other Europe: Ireland,Female,75 to 79,20070
 Europe: Other Europe: Ireland,Female,80 to 84,16375
 Europe: Other Europe: Ireland,Female,85 and over,16445
 Europe: Other Europe: Ireland,Male,0 to 4,630
-Europe: Other Europe: Ireland,Male,5 to 9,1685
+Europe: Other Europe: Ireland,Male,4 to 9,1685
 Europe: Other Europe: Ireland,Male,10 to 15,3855
 Europe: Other Europe: Ireland,Male,16 to 19,3765
 Europe: Other Europe: Ireland,Male,20 to 24,3435
@@ -180,7 +180,7 @@ Europe: Other Europe: Ireland,Male,75 to 79,14905
 Europe: Other Europe: Ireland,Male,80 to 84,10585
 Europe: Other Europe: Ireland,Male,85 and over,7430
 Europe: Other Europe: Italy,Female,0 to 4,3155
-Europe: Other Europe: Italy,Female,5 to 9,9095
+Europe: Other Europe: Italy,Female,4 to 9,9095
 Europe: Other Europe: Italy,Female,10 to 15,13875
 Europe: Other Europe: Italy,Female,16 to 19,7620
 Europe: Other Europe: Italy,Female,20 to 24,12040
@@ -198,7 +198,7 @@ Europe: Other Europe: Italy,Female,75 to 79,2370
 Europe: Other Europe: Italy,Female,80 to 84,3440
 Europe: Other Europe: Italy,Female,85 and over,5085
 Europe: Other Europe: Italy,Male,0 to 4,3125
-Europe: Other Europe: Italy,Male,5 to 9,9685
+Europe: Other Europe: Italy,Male,4 to 9,9685
 Europe: Other Europe: Italy,Male,10 to 15,14940
 Europe: Other Europe: Italy,Male,16 to 19,7640
 Europe: Other Europe: Italy,Male,20 to 24,10240
