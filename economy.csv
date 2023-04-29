@@ -1,0 +1,32 @@
+Country,EconomicActivity,Count
+EU countries,Employee (including full-time students),62775
+Non-EU countries,Employee (including full-time students),9070
+Middle East and Asia,Employee (including full-time students),49275
+Africa,Employee (including full-time students),18960
+The Americas and the Caribbean,Employee (including full-time students),15515
+Antarctica and Oceania (including Australasia) and Other,Employee (including full-time students),2450
+EU countries,Self-employed (including full-time students),16870
+Europe: Non-EU countries: All other non-EU countries,Self-employed (including full-time students),5720
+Middle East and Asia,Self-employed (including full-time students),7060
+Africa,Self-employed (including full-time students),2660
+The Americas and the Caribbean,Self-employed (including full-time students),4290
+Antarctica and Oceania (including Australasia) and Other,Self-employed (including full-time students),400
+EU countries,Unemployed (including full-time students),13710
+Europe: Non-EU countries: All other non-EU countries,Unemployed (including full-time students),3100
+Middle East and Asia,Unemployed (including full-time students),21520
+Africa,Unemployed (including full-time students),9520
+The Americas and the Caribbean,Unemployed (including full-time students),4930
+Antarctica and Oceania (including Australasia) and Other,Unemployed (including full-time students),480
+EU countries,Inactive (excluding full-time students),15925
+Europe: Non-EU countries: All other non-EU countries,Inactive (excluding full-time students),6315
+Middle East and Asia,Inactive (excluding full-time students),40360
+Africa,Inactive (excluding full-time students),9710
+The Americas and the Caribbean,Inactive (excluding full-time students),7295
+Antarctica and Oceania (including Australasia) and Other,Inactive (excluding full-time students),655
+EU countries,Economically inactive: Student,29800
+Europe: Non-EU countries: All other non-EU countries,Economically inactive: Student,6175
+Middle East and Asia,Economically inactive: Student,70780
+Africa,Economically inactive: Student,10155
+The Americas and the Caribbean,Economically inactive: Student,8630
+Antarctica and Oceania (including Australasia) and Other,Economically inactive: Student,670
+,,
