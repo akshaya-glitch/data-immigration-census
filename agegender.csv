@@ -1,0 +1,361 @@
+country,gender,age,count
+India,Female,0 to 04,5795
+India,Female,05 to 09,11230
+India,Female,10 to 15,13620
+India,Female,16 to 19,10010
+India,Female,20 to 24,19570
+India,Female,25 to 29,32455
+India,Female,30 to 34,53250
+India,Female,35 to 39,60600
+India,Female,40 to 44,51535
+India,Female,45 to 49,36540
+India,Female,50 to 54,26405
+India,Female,55 to 59,27595
+India,Female,60 to 64,26490
+India,Female,65 to 69,24945
+India,Female,70 to 74,21820
+India,Female,75 to 79,17975
+India,Female,80 to 84,13710
+India,Female,85 and over,12110
+India,Male,0 to 04,5805
+India,Male,05 to 09,11375
+India,Male,10 to 15,14715
+India,Male,16 to 19,11255
+India,Male,20 to 24,26125
+India,Male,25 to 29,28535
+India,Male,30 to 34,43615
+India,Male,35 to 39,58060
+India,Male,40 to 44,55780
+India,Male,45 to 49,42835
+India,Male,50 to 54,28605
+India,Male,55 to 59,25055
+India,Male,60 to 64,24770
+India,Male,65 to 69,23640
+India,Male,70 to 74,17975
+India,Male,75 to 79,14865
+India,Male,80 to 84,12310
+India,Male,85 and over,9375
+Poland,Female,0 to 04,1545
+Poland,Female,05 to 09,5240
+Poland,Female,10 to 15,14930
+Poland,Female,16 to 19,15190
+Poland,Female,20 to 24,26595
+Poland,Female,25 to 29,41295
+Poland,Female,30 to 34,59725
+Poland,Female,35 to 39,84425
+Poland,Female,40 to 44,63330
+Poland,Female,45 to 49,32305
+Poland,Female,50 to 54,17590
+Poland,Female,55 to 59,12715
+Poland,Female,60 to 64,10895
+Poland,Female,65 to 69,6460
+Poland,Female,70 to 74,3605
+Poland,Female,75 to 79,1610
+Poland,Female,80 to 84,1615
+Poland,Female,85 and over,2480
+Poland,Male,0 to 04,1540
+Poland,Male,05 to 09,5505
+Poland,Male,10 to 15,15420
+Poland,Male,16 to 19,15385
+Poland,Male,20 to 24,21735
+Poland,Male,25 to 29,30565
+Poland,Male,30 to 34,44695
+Poland,Male,35 to 39,68165
+Poland,Male,40 to 44,59915
+Poland,Male,45 to 49,33185
+Poland,Male,50 to 54,17520
+Poland,Male,55 to 59,11180
+Poland,Male,60 to 64,8800
+Poland,Male,65 to 69,4115
+Poland,Male,70 to 74,1455
+Poland,Male,75 to 79,515
+Poland,Male,80 to 84,615
+Poland,Male,85 and over,1230
+Pakistan,Female,0 to 04,1700
+Pakistan,Female,05 to 09,4300
+Pakistan,Female,10 to 15,9710
+Pakistan,Female,16 to 19,7900
+Pakistan,Female,20 to 24,13700
+Pakistan,Female,25 to 29,22235
+Pakistan,Female,30 to 34,35605
+Pakistan,Female,35 to 39,40520
+Pakistan,Female,40 to 44,39230
+Pakistan,Female,45 to 49,31460
+Pakistan,Female,50 to 54,25040
+Pakistan,Female,55 to 59,19630
+Pakistan,Female,60 to 64,19470
+Pakistan,Female,65 to 69,15975
+Pakistan,Female,70 to 74,10105
+Pakistan,Female,75 to 79,6035
+Pakistan,Female,80 to 84,4825
+Pakistan,Female,85 and over,4580
+Pakistan,Male,0 to 04,1965
+Pakistan,Male,05 to 09,4495
+Pakistan,Male,10 to 15,10455
+Pakistan,Male,16 to 19,8775
+Pakistan,Male,20 to 24,12680
+Pakistan,Male,25 to 29,18260
+Pakistan,Male,30 to 34,30945
+Pakistan,Male,35 to 39,36625
+Pakistan,Male,40 to 44,40555
+Pakistan,Male,45 to 49,36345
+Pakistan,Male,50 to 54,29730
+Pakistan,Male,55 to 59,21475
+Pakistan,Male,60 to 64,20345
+Pakistan,Male,65 to 69,17235
+Pakistan,Male,70 to 74,8185
+Pakistan,Male,75 to 79,4940
+Pakistan,Male,80 to 84,4875
+Pakistan,Male,85 and over,3660
+Romania,Female,0 to 04,3420
+Romania,Female,05 to 09,7890
+Romania,Female,10 to 15,11835
+Romania,Female,16 to 19,8970
+Romania,Female,20 to 24,27840
+Romania,Female,25 to 29,40310
+Romania,Female,30 to 34,50495
+Romania,Female,35 to 39,34780
+Romania,Female,40 to 44,27610
+Romania,Female,45 to 49,17995
+Romania,Female,50 to 54,14195
+Romania,Female,55 to 59,5520
+Romania,Female,60 to 64,3630
+Romania,Female,65 to 69,2440
+Romania,Female,70 to 74,1105
+Romania,Female,75 to 79,485
+Romania,Female,80 to 84,245
+Romania,Female,85 and over,185
+Romania,Male,0 to 04,3695
+Romania,Male,05 to 09,8150
+Romania,Male,10 to 15,12740
+Romania,Male,16 to 19,9405
+Romania,Male,20 to 24,24375
+Romania,Male,25 to 29,41095
+Romania,Male,30 to 34,59075
+Romania,Male,35 to 39,43245
+Romania,Male,40 to 44,33525
+Romania,Male,45 to 49,20115
+Romania,Male,50 to 54,14535
+Romania,Male,55 to 59,5230
+Romania,Male,60 to 64,2755
+Romania,Male,65 to 69,1145
+Romania,Male,70 to 74,455
+Romania,Male,75 to 79,175
+Romania,Male,80 to 84,100
+Romania,Male,85 and over,80
+Ireland,Female,0 to 04,560
+Ireland,Female,05 to 09,1585
+Ireland,Female,10 to 15,3700
+Ireland,Female,16 to 19,3745
+Ireland,Female,20 to 24,4555
+Ireland,Female,25 to 29,6975
+Ireland,Female,30 to 34,8425
+Ireland,Female,35 to 39,9020
+Ireland,Female,40 to 44,9365
+Ireland,Female,45 to 49,9690
+Ireland,Female,50 to 54,10610
+Ireland,Female,55 to 59,10840
+Ireland,Female,60 to 64,11715
+Ireland,Female,65 to 69,15990
+Ireland,Female,70 to 74,20125
+Ireland,Female,75 to 79,20070
+Ireland,Female,80 to 84,16375
+Ireland,Female,85 and over,16445
+Ireland,Male,0 to 04,630
+Ireland,Male,05 to 09,1685
+Ireland,Male,10 to 15,3855
+Ireland,Male,16 to 19,3765
+Ireland,Male,20 to 24,3435
+Ireland,Male,25 to 29,5250
+Ireland,Male,30 to 34,7320
+Ireland,Male,35 to 39,9085
+Ireland,Male,40 to 44,9140
+Ireland,Male,45 to 49,8355
+Ireland,Male,50 to 54,9465
+Ireland,Male,55 to 59,10375
+Ireland,Male,60 to 64,10660
+Ireland,Male,65 to 69,13160
+Ireland,Male,70 to 74,15790
+Ireland,Male,75 to 79,14905
+Ireland,Male,80 to 84,10585
+Ireland,Male,85 and over,7430
+Italy,Female,0 to 04,3155
+Italy,Female,05 to 09,9095
+Italy,Female,10 to 15,13875
+Italy,Female,16 to 19,7620
+Italy,Female,20 to 24,12040
+Italy,Female,25 to 29,16250
+Italy,Female,30 to 34,14880
+Italy,Female,35 to 39,11010
+Italy,Female,40 to 44,8080
+Italy,Female,45 to 49,7460
+Italy,Female,50 to 54,5685
+Italy,Female,55 to 59,3915
+Italy,Female,60 to 64,2870
+Italy,Female,65 to 69,2860
+Italy,Female,70 to 74,3255
+Italy,Female,75 to 79,2370
+Italy,Female,80 to 84,3440
+Italy,Female,85 and over,5085
+Italy,Male,0 to 04,3125
+Italy,Male,05 to 09,9685
+Italy,Male,10 to 15,14940
+Italy,Male,16 to 19,7640
+Italy,Male,20 to 24,10240
+Italy,Male,25 to 29,16420
+Italy,Male,30 to 34,16990
+Italy,Male,35 to 39,13405
+Italy,Male,40 to 44,10100
+Italy,Male,45 to 49,9045
+Italy,Male,50 to 54,6580
+Italy,Male,55 to 59,4890
+Italy,Male,60 to 64,4150
+Italy,Male,65 to 69,3885
+Italy,Male,70 to 74,4185
+Italy,Male,75 to 79,3185
+Italy,Male,80 to 84,2960
+Italy,Male,85 and over,2300
+Nigeria,Female,0 to 04,1525
+Nigeria,Female,05 to 09,2565
+Nigeria,Female,10 to 15,4105
+Nigeria,Female,16 to 19,4995
+Nigeria,Female,20 to 24,7535
+Nigeria,Female,25 to 29,10170
+Nigeria,Female,30 to 34,13900
+Nigeria,Female,35 to 39,18240
+Nigeria,Female,40 to 44,20045
+Nigeria,Female,45 to 49,15870
+Nigeria,Female,50 to 54,12875
+Nigeria,Female,55 to 59,10465
+Nigeria,Female,60 to 64,7075
+Nigeria,Female,65 to 69,3245
+Nigeria,Female,70 to 74,2380
+Nigeria,Female,75 to 79,2010
+Nigeria,Female,80 to 84,1280
+Nigeria,Female,85 and over,495
+Nigeria,Male,0 to 04,1635
+Nigeria,Male,05 to 09,2630
+Nigeria,Male,10 to 15,4035
+Nigeria,Male,16 to 19,4865
+Nigeria,Male,20 to 24,6750
+Nigeria,Male,25 to 29,8195
+Nigeria,Male,30 to 34,11985
+Nigeria,Male,35 to 39,16355
+Nigeria,Male,40 to 44,17190
+Nigeria,Male,45 to 49,15995
+Nigeria,Male,50 to 54,14105
+Nigeria,Male,55 to 59,11300
+Nigeria,Male,60 to 64,8975
+Nigeria,Male,65 to 69,3790
+Nigeria,Male,70 to 74,1785
+Nigeria,Male,75 to 79,945
+Nigeria,Male,80 to 84,985
+Nigeria,Male,85 and over,475
+Bangladesh,Female,0 to 04,455
+Bangladesh,Female,05 to 09,1130
+Bangladesh,Female,10 to 15,2255
+Bangladesh,Female,16 to 19,2615
+Bangladesh,Female,20 to 24,6280
+Bangladesh,Female,25 to 29,9965
+Bangladesh,Female,30 to 34,17495
+Bangladesh,Female,35 to 39,20900
+Bangladesh,Female,40 to 44,22135
+Bangladesh,Female,45 to 49,17180
+Bangladesh,Female,50 to 54,10480
+Bangladesh,Female,55 to 59,6545
+Bangladesh,Female,60 to 64,5125
+Bangladesh,Female,65 to 69,5365
+Bangladesh,Female,70 to 74,3640
+Bangladesh,Female,75 to 79,2295
+Bangladesh,Female,80 to 84,1975
+Bangladesh,Female,85 and over,1080
+Bangladesh,Male,0 to 04,500
+Bangladesh,Male,05 to 09,1130
+Bangladesh,Male,10 to 15,2540
+Bangladesh,Male,16 to 19,2670
+Bangladesh,Male,20 to 24,5220
+Bangladesh,Male,25 to 29,6545
+Bangladesh,Male,30 to 34,11075
+Bangladesh,Male,35 to 39,16150
+Bangladesh,Male,40 to 44,23485
+Bangladesh,Male,45 to 49,22630
+Bangladesh,Male,50 to 54,16915
+Bangladesh,Male,55 to 59,10235
+Bangladesh,Male,60 to 64,7605
+Bangladesh,Male,65 to 69,4030
+Bangladesh,Male,70 to 74,1200
+Bangladesh,Male,75 to 79,1280
+Bangladesh,Male,80 to 84,1835
+Bangladesh,Male,85 and over,1085
+Germany,Female,0 to 04,970
+Germany,Female,05 to 09,2275
+Germany,Female,10 to 15,4340
+Germany,Female,16 to 19,4605
+Germany,Female,20 to 24,8445
+Germany,Female,25 to 29,11785
+Germany,Female,30 to 34,14215
+Germany,Female,35 to 39,14315
+Germany,Female,40 to 44,14345
+Germany,Female,45 to 49,14080
+Germany,Female,50 to 54,13940
+Germany,Female,55 to 59,12965
+Germany,Female,60 to 64,8275
+Germany,Female,65 to 69,6335
+Germany,Female,70 to 74,6235
+Germany,Female,75 to 79,3550
+Germany,Female,80 to 84,3915
+Germany,Female,85 and over,5285
+Germany,Male,0 to 04,1015
+Germany,Male,05 to 09,2500
+Germany,Male,10 to 15,4515
+Germany,Male,16 to 19,4710
+Germany,Male,20 to 24,7355
+Germany,Male,25 to 29,9830
+Germany,Male,30 to 34,11170
+Germany,Male,35 to 39,11415
+Germany,Male,40 to 44,10835
+Germany,Male,45 to 49,11315
+Germany,Male,50 to 54,10860
+Germany,Male,55 to 59,9760
+Germany,Male,60 to 64,5960
+Germany,Male,65 to 69,4695
+Germany,Male,70 to 74,4315
+Germany,Male,75 to 79,1475
+Germany,Male,80 to 84,885
+Germany,Male,85 and over,880
+South Africa,Female,0 to 04,840
+South Africa,Female,05 to 09,2220
+South Africa,Female,10 to 15,3310
+South Africa,Female,16 to 19,2790
+South Africa,Female,20 to 24,5730
+South Africa,Female,25 to 29,8485
+South Africa,Female,30 to 34,10675
+South Africa,Female,35 to 39,14020
+South Africa,Female,40 to 44,13980
+South Africa,Female,45 to 49,14200
+South Africa,Female,50 to 54,9530
+South Africa,Female,55 to 59,6245
+South Africa,Female,60 to 64,5710
+South Africa,Female,65 to 69,5220
+South Africa,Female,70 to 74,4540
+South Africa,Female,75 to 79,2985
+South Africa,Female,80 to 84,1710
+South Africa,Female,85 and over,1505
+South Africa,Male,0 to 04,885
+South Africa,Male,05 to 09,2225
+South Africa,Male,10 to 15,3450
+South Africa,Male,16 to 19,2805
+South Africa,Male,20 to 24,5670
+South Africa,Male,25 to 29,7860
+South Africa,Male,30 to 34,10110
+South Africa,Male,35 to 39,13755
+South Africa,Male,40 to 44,14030
+South Africa,Male,45 to 49,13400
+South Africa,Male,50 to 54,8650
+South Africa,Male,55 to 59,5315
+South Africa,Male,60 to 64,4450
+South Africa,Male,65 to 69,3615
+South Africa,Male,70 to 74,3145
+South Africa,Male,75 to 79,2205
+South Africa,Male,80 to 84,1110
+South Africa,Male,85 and over,795
